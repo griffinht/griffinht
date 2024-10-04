@@ -1,4 +1,6 @@
-hey there
+Hello!
+
+Check out what I [use](https://notes.griffinht.com/uses)
 
 <!--
 todo page view analytics!
