@@ -8,6 +8,8 @@ You've found the place where all my code lives.
 
 [uses](https://notes.griffinht.com/uses) todo dotfiles
 
+[notes](https://notes.griffinht.com/software+development)
+
 <!--
 todo page view analytics!
 todo now page
