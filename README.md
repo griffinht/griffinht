@@ -1,10 +1,10 @@
 Hello!
 
-You've found my GitHub, where I host all the code I have written.
+You've found the place where all my code lives.
 
-[projects](https://notes.griffinht.com/projects)
+[See what I'm working on right now](https://github.com/users/griffinht/projects/3)
 
-Also check out what I [use](https://notes.griffinht.com/uses) for coding. todo awesome dotfiles - replace uses with dotfiles?
+Also check out what I [use](https://notes.griffinht.com/uses) for coding. Here are my dotfiles [todo replace uses?]
 
 <!--
 todo page view analytics!
