@@ -8,6 +8,8 @@ You've found the place where all my code lives.
 
 Also check out what I [use](https://notes.griffinht.com/uses) for coding. Here are my dotfiles [todo replace uses?]
 
+For the corporate version of my profile, [take a look at my LinkedIn](https://www.linkedin.com/in/griffinht/)
+
 <!--
 todo page view analytics!
 todo now page
