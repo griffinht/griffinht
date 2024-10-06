@@ -4,7 +4,7 @@ You've found my GitHub, where I host all the code I have written.
 
 [projects](https://notes.griffinht.com/projects)
 
-Also check out what I [use](https://notes.griffinht.com/uses) for coding.
+Also check out what I [use](https://notes.griffinht.com/uses) for coding. todo awesome dotfiles - replace uses with dotfiles?
 
 <!--
 todo page view analytics!
