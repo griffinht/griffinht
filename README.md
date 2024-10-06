@@ -13,3 +13,5 @@ todo now page
 https://github.com/guilyx commit stats
 https://github.com/JessicaLim8 word cloud
 -->
+
+todo add tech stack/skills section
