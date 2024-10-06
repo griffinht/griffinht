@@ -2,11 +2,11 @@ Hello!
 
 You've found the place where all my code lives.
 
-[Check out my projects](https://github.com/griffinht?tab=repositories)
+[projects](https://github.com/griffinht?tab=repositories)
 
-[See what I'm working on right now](https://github.com/users/griffinht/projects/3)
+[now](https://github.com/users/griffinht/projects/3)
 
-Also check out what I [use](https://notes.griffinht.com/uses) for coding. Here are my dotfiles [todo replace uses?]
+[uses](https://notes.griffinht.com/uses) todo dotfiles
 
 <!--
 todo page view analytics!
