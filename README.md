@@ -20,4 +20,4 @@ https://github.com/JessicaLim8 word cloud
 todo add tech stack/skills section
 
 
-[LinkedIn](https://www.linkedin.com/in/griffinht/)
+💼👔 [LinkedIn](https://www.linkedin.com/in/griffinht/)
