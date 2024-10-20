@@ -21,3 +21,5 @@ todo add tech stack/skills section
 
 
 💼👔 [LinkedIn](https://www.linkedin.com/in/griffinht/)
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=griffin_ht)
