@@ -9,6 +9,8 @@ You've found the place where all my code lives.
 <!-- [dotfiles todo](https://github.com/) -->
 
 [tech stacks](https://stackshare.io/griffinht)
+[product hunt](https://www.producthunt.com/@griffinht) (idk why I have this)
+
 <!--
 todo page view analytics!
 todo now page
