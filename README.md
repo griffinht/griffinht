@@ -8,7 +8,7 @@ You've found the place where all my code lives.
 [notes](https://notes.griffinht.com/software+development)
 <!-- [dotfiles todo](https://github.com/) -->
 
-
+[tech stacks](https://stackshare.io/griffinht)
 <!--
 todo page view analytics!
 todo now page
